@@ -1,3 +1,14 @@
 {
-  "your": "json config here"
+  "name": "@Abhishekmondal1/learn-package-publish",
+  "version": "1.0.0",
+  "description": "demo package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AbhishekMondal1",
+  "repository":{
+  "url": "git://github.com/Abhishekmondal1/learn-package-publish.git"
+  }
+  "license": "ISC"
 }
